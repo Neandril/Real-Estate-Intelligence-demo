@@ -1,0 +1,27 @@
+# --- Core ---
+pandas
+numpy
+requests
+python-dotenv
+pydantic
+dill
+
+# --- Databases ---
+pymongo
+psycopg2-binary
+sqlalchemy
+
+# --- Machine Learning ---
+scikit-learn
+joblib
+scipy
+
+# --- Dashboard ---
+streamlit
+plotly
+folium
+streamlit-folium
+
+# --- Testing ---
+pytest
+pytest-mock

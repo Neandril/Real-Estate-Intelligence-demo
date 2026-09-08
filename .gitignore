@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+data/*.csv
+data/*.csv.gz
+!data/.gitkeep
+models/*.joblib
+!models/.gitkeep
+airflow/logs/
+airflow/airflow.db
+.DS_Store
+.pytest_cache/
+*.egg-info/
